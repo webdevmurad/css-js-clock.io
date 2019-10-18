@@ -1,5 +1,4 @@
 # CSS-JS-Clock.io
-Часы на nativ JS
 
 Часы на vanilla JS. Простенькие часы ))
 
