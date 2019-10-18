@@ -2,4 +2,4 @@
 
 Часы на vanilla JS. Простенькие часы ))
 
-https://webdevmurad.github.io/CSS-JS-Clock.io/
+https://webdevmurad.github.io/css-js-clock.io/
